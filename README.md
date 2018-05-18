@@ -20,7 +20,8 @@ Assume:
 Once beaten, the monkeys do not return to battle.
 The monkeys cannot turn back and hence those behind you cannot fight.
 You can choose to start fighting wherever and choose to stop fighting whenever. 
-input size:1000000
+input size:1000000.
+
 My solution to the problem is
 number of possiblities is 13
 number of monkeys is 19
