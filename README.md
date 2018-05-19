@@ -23,5 +23,5 @@ You can choose to start fighting wherever and choose to stop fighting whenever.
 input size:1000000.
 
 My solution to the problem is
-number of possiblities is 13
+number of possiblities is 4
 number of monkeys is 19
