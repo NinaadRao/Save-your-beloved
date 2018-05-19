@@ -30,7 +30,7 @@ int main(){
 				}
 				else if(j>max){
 					max=j;
-					
+					count=0
 				
 					}
 				break;
