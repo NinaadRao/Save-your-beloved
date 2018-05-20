@@ -25,3 +25,9 @@ input size:1000000.
 # My solution to the problem is
 Number of possiblities is:4  
 Number of monkeys is:19
+
+# running the code(for a gcc compiler)
+After pulling this repository, go to this appropriate folder and type this in the command prompt:<br/>
+gcc save_the_beloved.c <br/>
+./a.out <input.txt> op1.txt<br/>
+Result will be written into op1.txt
